@@ -37,7 +37,7 @@
     $carro4 = new carro();
 
     $carro4->ano = "2017";
-    $carro4->modelo = "Ferrari";
+    $carro4->modelo = "Ferrari Roma";
     $carro4->cor = "Vermelho";
     $carro4->fabricante = "Ferrari";
     $carro4->status = "Disponivel";
